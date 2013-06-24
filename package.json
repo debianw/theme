@@ -1,14 +1,14 @@
 {
   "name": "topcoat-theme",
-  "version": "0.4.0",
-  "description": "Default theme for TopCoat components",
+  "version": "0.4.1",
+  "description": "Modification of the default theme for TopCoat components",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "grunt test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/topcoat/theme.git"
+    "url": "git://github.com/debianw/theme.git"
   },
   "keywords": [
     "theme",
@@ -16,7 +16,7 @@
     "css",
     "adobe"
   ],
-  "author": "@dam Kristofer Joseph",
+  "author": "Walter R. <debianw@gmail.com>",
   "license": "Apache",
   "devDependencies": {
     "grunt": "~0.4.1",
